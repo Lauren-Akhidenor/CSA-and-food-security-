@@ -1,4 +1,3 @@
-````markdown
 # 🌍 Role of Climate-Smart Agriculture (CSA) in Addressing Challenges of Food Security and Climate Change in Nigeria through Food Price Stabilization and Farmers’ Perception
 
 ## 📘 Project Overview
@@ -88,12 +87,7 @@ Key results include:
 
 ---
 
-## 🚀 How to Run
-```bash
-git clone https://github.com/your-username/CSA-FoodSecurity-Analysis.git
-cd CSA-FoodSecurity-Analysis
-pip install -r requirements.txt
-````
+
 
 ```
 ```
