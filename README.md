@@ -1,4 +1,4 @@
-# 🌍 Role of Climate-Smart Agriculture (CSA) in Addressing Challenges of Food Security and Climate Change in Nigeria through Food Price Stabilization and Farmers’ Perception
+# ROLE OF CLIMATE-SMART AGRICULTURE (CSA) IN ADDRESSING CHALLENGES OF FOOD SECURITY AND CLIMATE CHANGE IN NIGERIA THROUGH FOOD PRICE STABILIZATION AND FARMER'S PERCEPTION 
 
 ## 📑 Table of Contents
 1. [Project Overview](#-project-overview)
@@ -20,7 +20,7 @@
 
 ---
 
-## 📘 Project Overview
+## Project Overview
 Agriculture in Nigeria is increasingly threatened by climate change, with smallholder farmers facing rising incidences of floods, droughts, and erratic rainfall. These disruptions to food production systems pose a serious threat to national food security. Climate-Smart Agriculture (CSA) is promoted as a key adaptive strategy, but little is known about its adoption, effectiveness, and the socioeconomic and regional factors influencing it. Farmers’ perceptions and expectations of climate risks also remain underexplored, especially concerning food price stabilization and climate-related damages.
 
 This project investigates:
@@ -36,7 +36,7 @@ Descriptive statistics and **OLS regression models** (using Python’s Statsmode
 
 ---
 
-## 📊 Data Source & Methodology
+## Data Source & Methodology
 - **Dataset:** GHS-Panel Wave 5 (2023/2024) Post-Harvest Community Questionnaire (Nigeria).
 - **Sampling Method:** Excel-based random sampling for manageable analysis; results reflect a **weighted 29.51 million respondents**.
 - **Variables Included:**
@@ -48,7 +48,7 @@ Descriptive statistics and **OLS regression models** (using Python’s Statsmode
 
 ---
 
-## 🛠️ Tools
+## Tools
 - **ArcGIS in Power BI** (geospatial mapping of respondents across Nigeria)
 - **Power BI** (dashboards for perception and socioeconomic visualization)
 - **Python** (Pandas, Statsmodels, Matplotlib, Seaborn)
@@ -57,7 +57,7 @@ Descriptive statistics and **OLS regression models** (using Python’s Statsmode
 
 ---
 
-## 🎯 Research Objectives
+## Research Objectives
 - Describe the socioeconomic characteristics of agricultural households in Nigeria.
 - Identify the perception of climate change and expectations among agricultural households in Nigeria.
 - Examine the extent of CSA adoption among agricultural households in Nigeria.
@@ -66,7 +66,7 @@ Descriptive statistics and **OLS regression models** (using Python’s Statsmode
 
 ---
 
-## 📊 Results
+## Results
 
 ### Objective 1: Socioeconomic Characteristics of Agricultural Households
 - **Sex:** Majority male (**66.32%**).
@@ -99,7 +99,7 @@ Descriptive statistics and **OLS regression models** (using Python’s Statsmode
 
 ---
 
-## 📂 Results Dashboards & Visuals
+## Results Dashboards & Visuals
 
 ### ArcGIS Visualizations
 Geospatial distribution of respondents across Nigeria using **ArcGIS integrated in Power BI**.
@@ -140,7 +140,7 @@ Python-based plots complement regression results:
 
 ---
 
-## 🔍 Insights
+## Insights
 - CSA is **universally adopted**, but its **effectiveness varies**.
 - CSA adoption is associated with **lower food prices**, supporting food security.
 - CSA does not fully mitigate damages, showing implementation and adaptation gaps.
@@ -148,7 +148,7 @@ Python-based plots complement regression results:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 ```bash
 git clone https://github.com/Lauren-Akhidenor/CSA-and-food-security-.git
 cd CSA-and-food-security-
@@ -157,7 +157,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome! Fork the repo and submit a pull request.
 
