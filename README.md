@@ -1,4 +1,4 @@
-# ROLE OF CLIMATE-SMART AGRICULTURE (CSA) IN ADDRESSING CHALLENGES OF FOOD SECURITY AND CLIMATE CHANGE IN NIGERIA THROUGH FOOD PRICE STABILIZATION AND FARMER'S PERCEPTION 
+# Role of Climate-Smart Agriculture (CSA) in Addressing Challenges of Food Security and Climate Change in Nigeria through Food Price Stabilization and Farmers’ Perception
 
 ## 📑 Table of Contents
 1. [Project Overview](#-project-overview)
