@@ -136,7 +136,7 @@ Descriptive statistics, regression, and data visualisation were used to assess r
 
 ---
 
-## Summary: 
+## Summary
 High-priority actions focus on **direct CSA implementation, scaling, and credit linkage**, while medium-priority actions strengthen **community structures and capacity-building**.  
 Together, these interventions support **climate resilience, food security, and inclusive agricultural development**.
 
