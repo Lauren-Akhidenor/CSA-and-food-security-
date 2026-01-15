@@ -4,15 +4,15 @@
 
 ## 📑 Table of Contents
 1. [Project Overview](#project-overview)
-2. [Data Source & Methodology](#data-source--methodology)
+2. [Data Source & Methodology](#data-source-and-methodology)
 3. [Tools](#tools)
 4. [Research Objectives](#research-objectives)
 5. [Results](#results)
-   - [Objective 1: Socioeconomic Characteristics](#objective-1-socioeconomic-characteristics-of-agricultural-households)
-   - [Objective 2: Perceptions and Expectations](#objective-2-perceptions-and-expectations-of-climate-change)
-   - [Objective 3–5: CSA Adoption & Econometric Analysis](#objective-35-csa-adoption-and-econometric-analysis)
-6. [Results Dashboards & Visuals](#results-dashboards--visuals)
-7. [Insights](#insights)
+6. [Results Dashboards & Visuals](#results-dashboards-and-visuals)
+7. [Key Findings & Insights](#key-findings-and-insights)
+8. [Recommendations by Priority](#recommendations-by-priority)
+9. [Summary](#summary)
+
 
 ---
 
@@ -112,11 +112,33 @@ Descriptive statistics, regression, and data visualisation were used to assess r
 
 ---
 
-## Insights
+## Key Findings & Insights
+
+**CSA reduces food prices by ₦29.48 per unit** 
+
+**Statistical significance:** p < 0.001 
+
+- This demonstrates that CSA adoption has **measurable economic benefits** for smallholders and consumers alike.
 - CSA is widely adopted, yet effectiveness varies regionally.  
 - CSA adoption contributes to **food price stabilisation** but does not fully mitigate climate damages.  
 - Economic and spatial analyses reveal **regional disparities** in adoption, perception, and resilience.  
 - Findings support **evidence-based policy, programme design, and impact evaluation**.
+
+
+---
+
+## Recommendations by Priority
+
+| Priority | Top Recommendations |
+|----------|-------------------|
+| **High** | Prioritize high-impact CSA practices; region-specific packages; upgrade early warning systems; localized climate advisories; investigate CSA-damage paradox; drought/flood-resistant varieties; livestock protection; build farmer self-efficacy; target female-headed households; scale proven practices; CSA-linked credit; develop a national CSA framework |
+| **Medium** | Community climate intermediaries; farmer adaptation committees; age-appropriate training; weather-indexed insurance |
+
+---
+
+## Summary: 
+High-priority actions focus on **direct CSA implementation, scaling, and credit linkage**, while medium-priority actions strengthen **community structures and capacity-building**.  
+Together, these interventions support **climate resilience, food security, and inclusive agricultural development**.
 
 ---
 
